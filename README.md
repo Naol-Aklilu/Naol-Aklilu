@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Naol-Aklilu
+- 👀 I’m interested in Mobile Application development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on your projects
+- 📫 How to reach me? Here is my email naol.aklilu@a2sv.org
